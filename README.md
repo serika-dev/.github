@@ -1,1 +1,1 @@
-# .github
+# The Serika.dev Community 
